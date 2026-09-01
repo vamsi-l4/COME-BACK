@@ -6,4 +6,4 @@ for char in text:
     else:
         count[char]=1
 for char in count:
-    print(char,":",count[char])         
+    print(char,":",count[char])  
