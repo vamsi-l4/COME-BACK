@@ -3,4 +3,4 @@ smallest=num[0]
 for nums in num:
     if nums<smallest:
         smallest=nums
-print(smallest)        
+print(smallest)
