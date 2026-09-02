@@ -50,7 +50,6 @@ Used when multiple items belong to the same category.
 
 First pass:
 Collect information.
-
 Second pass:
 Use the collected information.
 
@@ -73,6 +72,5 @@ Use the collected information.
 
 A dictionary is useful when a problem requires
 remembering information about values.
-
 The key identifies the item and the value stores
 the information needed about that item.
