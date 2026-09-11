@@ -8,4 +8,4 @@ for i in range(k,len(nums)):
     Windowsum=Windowsum-nums[i-k]+nums[i]
     if Windowsum>max_sum:
         max_sum=Windowsum
-print("Maximum average:", max_sum/k)        
+print("Maximum average:", max_sum/k)

@@ -14,4 +14,4 @@ for right in range(len(nums)):
 if min_len==len(nums)+1:
     print(0)
 else:
-    print(min_len)                
+    print(min_len)

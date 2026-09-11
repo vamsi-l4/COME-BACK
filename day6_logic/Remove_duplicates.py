@@ -3,4 +3,4 @@ set=[]
 for nums in num:
     if nums not in set:
         set.append(nums)
-print(set)        
+print(set)

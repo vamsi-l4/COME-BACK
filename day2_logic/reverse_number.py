@@ -4,4 +4,4 @@ while n!=0:
     digit=n%10
     reverse_number=reverse_number*10+digit
     n//=10
-print(reverse_number)        
+print(reverse_number)
